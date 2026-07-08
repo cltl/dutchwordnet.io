@@ -1,0 +1,17 @@
+title: Open Dutch WordNet
+description: Open Dutch WordNet is a Dutch lexical semantic database.
+url: "https://dutchwordnet.io"
+
+theme: minima
+
+header_pages:
+  - demos.md
+  - data.md
+  - contact.md
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-feed
